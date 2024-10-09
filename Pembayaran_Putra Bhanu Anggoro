@@ -53,8 +53,8 @@ function calculatePayment($field, $hours) {
 }
 
 // Contoh penggunaan fungsi pencarian
-$searchLocation = 'Jakarta'; // Lokasi yang dicari
-$searchType = 'Sepak Bola';   // Jenis lapangan yang dicari
+$searchLocation = 'Purwokerto Selatan'; // Lokasi yang dicari
+$searchType = 'Futsal';   // Jenis lapangan yang dicari
 $searchDate = '2024-10-10';   // Tanggal yang dicari
 $rentDuration = 3;            // Durasi sewa dalam jam
 
